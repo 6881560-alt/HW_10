@@ -1,0 +1,8 @@
+command,description
+git init,Initialize a new Git repository
+git status,Show repository status
+git add,Add files to staging area
+git commit,Save changes to repository
+git push,Upload commits to remote repository
+git pull,Download changes from remote repository
+git clone,Clone remote repository
